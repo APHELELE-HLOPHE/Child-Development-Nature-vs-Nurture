@@ -49,6 +49,6 @@ The project investigates child development indicators and explores how different
 
 ![Twin Study](screenshots/Twin-Study.png)
 
-![Country vs School](screeshots/Country-vs-School.png)
+![Country vs School](screenshots/Country-vs-School.png)
 
 ![Insights](screenshots/Insights.png)
