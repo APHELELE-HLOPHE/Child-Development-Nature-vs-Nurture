@@ -52,6 +52,3 @@ The project investigates child development indicators and explores how different
 ![Country vs School](screeshots/Country-vs-School.png)
 
 ![Insights](screenshots/Insights.png)
-
-[GitHub Profile](https://github.com/)
-
